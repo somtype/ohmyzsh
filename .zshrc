@@ -74,7 +74,6 @@ ZSH_THEME="agnoster"
 plugins=(
 	git
 	sudo
-	autojump
 	archlinux
 )
 
