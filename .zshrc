@@ -76,7 +76,6 @@ plugins=(
 	sudo
 	archlinux
 	ubuntu
-	debian
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -106,5 +105,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias aps="aptitude search"
 alias cona="conda activate"
 alias ra="ranger"
+alias tls="tmux ls"
+alias ta="tmux a"
+alias tat="tmux a -t"
