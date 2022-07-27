@@ -77,6 +77,7 @@ plugins=(
 	sudo
 	archlinux
 	ubuntu
+	aliases
 )
 
 source $ZSH/oh-my-zsh.sh
